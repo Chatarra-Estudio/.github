@@ -1,6 +1,17 @@
 ## Hi there 👋
 
 Meter aquí
+
+Página de Chatarra Estudio
+
+https://chatarra-estudio.github.io/
+
+https://github.com/JoseGarciaMoreno/Chatarra-Estudio GIT
+
+https://github.com/Chatarra-Estudio/chatarra-estudio.github.io GIT
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/
+
 <!--
 
 **Here are some ideas to get you started:**
